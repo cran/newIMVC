@@ -1,0 +1,14 @@
+53a141cde1a390357d79932418528398 *DESCRIPTION
+0384961fe6a3f314c6caf69af8d63ff2 *NAMESPACE
+ef2a5e557508ee856433a0d8d1e9e09a *R/IMVC.R
+934a9775cab1f40bd8facd2f08edd9da *build/vignette.rds
+dea4fe5cc9000b68dc42a8dd238683d3 *inst/doc/README.R
+d5c98c1473e27d46e82278f8ea8de6c4 *inst/doc/README.Rmd
+35615069e285d377b512f5ea87f04d8e *inst/doc/README.html
+1af9503aef7667d370d9965ffbffe336 *man/IMVC.Rd
+72807da5bc3e277b087f1d41eecac72a *man/IMVCFDR.Rd
+844df4e5752af5c984ea06fc4597302c *man/IMVCS.Rd
+592f4481f473278391ce60439fee03a8 *man/IMVCT.Rd
+558e9db0437fb12deb2db4969a4b9b20 *tests/testthat.R
+9a79c55d2634296683a3fc6d8bcf36d3 *tests/testthat/test-hypothesis_test.R
+d5c98c1473e27d46e82278f8ea8de6c4 *vignettes/README.Rmd
